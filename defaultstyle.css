@@ -1,5 +1,5 @@
 body {
-	background-color: #FFFFFF;
+	background-color: #e5dbd1;
 	margin: 0;
 	padding:0;
 	overflow-x:hidden;
@@ -40,7 +40,7 @@ body {
 }
 .navbutton{
 	border: none 1px black;
-	background:#FFFFFF;
+	background:#e5dbd1;
 	padding:12px 7px 12px 7px;
 	color:#4C591E;
 	font-family:arial;
@@ -55,7 +55,7 @@ body {
 }
 
 .navscreen{
-	background-color: #66ADD9;
+	background-color: #ffff01;
 }
 	
 	
@@ -64,7 +64,7 @@ body {
 .navbutton:hover{
 	/* background-color: */
 	text-decoration: underline overline;
-	text-decoration-color: #99A63C;
+	text-decoration-color: #ffff01;
 	text-decoration-thickness:5px;
 	cursor: grab;
 		
@@ -80,7 +80,7 @@ body {
 .divsale{
 	height:60px;
 	display:flex;
-	background-color:#735F22;
+	background-color:#cccc84;
 	border:0;
 	border-radius:0;
 	width:100%;
@@ -118,7 +118,7 @@ body {
 	botttom:0;
 	right:0;
 	width:100%;
-	background:#66ADD9;
+	background:#ffff01;
 }
 .footeritem{
 	display:flex;
